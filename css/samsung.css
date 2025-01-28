@@ -1,0 +1,38 @@
+
+.samsung-body img{
+    width: 100%;
+    height: 500px;
+}
+
+.samsung-body h3{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    font-weight: 900;
+    background-color: #1564b3;
+    color: white;
+    padding: 0.6rem;
+    
+   }
+
+   .samsung-body h3:hover{
+    background-color: gray;
+    color: #1564b3;
+   }
+.samsung-body p{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+   
+    
+}
+  .key-features{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    margin-top: 20px;
+  }
+
+  
+
+  
